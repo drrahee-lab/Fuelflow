@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FuelFlow iOS",
+  "description": "A premium, iOS-styled car fuel expense tracker featuring AI receipt scanning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
